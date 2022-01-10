@@ -1,0 +1,5 @@
+Geralt,31
+Trevor,39
+BASIA,24
+Asterion,31
+Van,32
